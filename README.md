@@ -1,4 +1,5 @@
-# viz-pub
+# 学习ggplot2的素材
+## viz-pub
 
 This is my ([halhen](https://www.reddit.com/user/halhen/) / [@hnrklndbrg](https://twitter.com/hnrklndbrg)) place to publish data visualizations. Besides publishing code and work-in-progress images, I also use this to host my final visualizations. I wrote the back-story and reasons for why in a [Medium article](https://medium.com/@halhen/lessons-learned-from-putting-an-erroneous-visualization-on-reddits-front-page-998bc3c62116).
 
